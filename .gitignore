@@ -1,0 +1,27 @@
+# Vendor software and firmware must never be committed.
+*.exe
+*.dll
+*.pdb
+*.hex
+*.bin
+DFU_Driver/
+
+# Reverse-engineering output and local tools.
+.tools/
+bundle/
+decompiled/
+theme-assets/
+firmware/
+output/
+
+# Python and test artifacts.
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+
+# Editors and operating systems.
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
