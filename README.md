@@ -12,6 +12,8 @@ The six current bars remain unchanged. The original `Current Monitor (A)` title
 is hidden and the total-power text uses the smaller built-in font so that it
 fits on the display.
 
+<img width="3072" height="4096" alt="IMG_20260730_192047" src="https://github.com/user-attachments/assets/8a3bfc9e-df2f-462c-8822-9c3b242ec529" />
+
 ## Supported firmware
 
 Only the exact, untouched firmware listed below is accepted:
